@@ -27,10 +27,10 @@ The simulator allows users to:
 ## Repository Structure
 
 ```
-├── src/                                                    # Source code
-├──Coding skills Project 1-Music Playlist Report            # Report and supplementary files
-├──Presentation - Music Playlist Simulator                  # PPT presentation
-└── README.md                                               # Project documentation
+├── music_playlist_simulator.cpp                             # Source code
+├── Coding skills Project 1-Music Playlist Report            # Report and supplementary files
+├── Presentation - Music Playlist Simulator                  # PPT presentation
+└── README.md                                                # Project documentation
 ```
 
 ## Requirements
